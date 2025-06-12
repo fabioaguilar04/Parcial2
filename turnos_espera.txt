@@ -1,3 +1,0 @@
-# Turnos en espera - 11/06/2025 16:44
-NumeroTurno,NombrePaciente,Identificacion,Edad,Prioridad,HoraEntrada,DuracionEstimada
-T001,Carolina,8-2091-23,94,Emergencia,2025-06-11T16:44:05.063637883,30
